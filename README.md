@@ -33,4 +33,3 @@ Thermals is suitable for all ages and does not collect any personal information 
 
 **Contact**
 Questions? Email: ThermalsSupport@gmail.com
-# app-ads
